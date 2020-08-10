@@ -9,3 +9,5 @@ transaction would be fraudulent activity or not. See example window below:
 
 
 ![alt text](https://github.com/Alex-Derhacobian/supertml_GUI/blob/master/example_window.png?raw=true)
+
+Download trained model and weights here: https://drive.google.com/drive/folders/15_YAHKFgJVjKAOWAlYJaXYrZBRJCEww_?usp=sharing
