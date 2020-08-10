@@ -29,7 +29,7 @@ width = 224
 
 iter_val = 0
 #MODEL
-model = tf.keras.models.load_model('my_model_1')
+model = tf.keras.models.load_model('trained_supertml_model')
 
 def build_data_line(buttons):
 	to_return = {}
