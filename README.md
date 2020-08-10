@@ -6,3 +6,6 @@ credit card fraud detection dataset (https://www.kaggle.com/mlg-ulb/creditcardfr
 
 This GUI allows the user to enter custom or randomized inputs, view the SuperTML image produced for feeding into the model, and see whether or not such a 
 transaction would be fraudulent activity or not. See example window below: 
+
+
+![alt text](https://github.com/Alex-Derhacobian/supertml_GUI/blob/master/example_window.png?raw=true)
