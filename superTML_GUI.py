@@ -158,7 +158,7 @@ canvas.pack()
 output_frame = tk.Frame(root)
 output_frame.place(relx=0.6, rely=0.12, relwidth=0.4, relheight=0.9)
 
-tml_image = Image.open('0_0.jpg')
+tml_image = Image.open('default.jpg')
 tml_image = tml_image.resize((300, 300), Image.ANTIALIAS)
 tml_background = ImageTk.PhotoImage(tml_image)
 tml_label = tk.Label(output_frame, image=tml_background)
