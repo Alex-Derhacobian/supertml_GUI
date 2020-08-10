@@ -1,4 +1,4 @@
-# supertml_GUI
+# SuperTML for Credit Card Fraud with Interactive GUI
 Fraud Detection GUI for SuperTML
 
 This provides an interactive GUI to demonstrate the SuperTML tabular machine learning method (Sun et. al). We have trained the SuperTML model on the classic
