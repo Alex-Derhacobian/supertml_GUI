@@ -1,4 +1,4 @@
-# SuperTML for Credit Card Fraud with Interactive GUI
+# GUI for Vision Tasks on Tabular Machine Learning Dataset (download pretrained model below)
 Fraud Detection GUI for SuperTML
 
 This provides an interactive GUI to demonstrate the SuperTML tabular machine learning method (Sun et. al). We have trained the SuperTML model on the classic
